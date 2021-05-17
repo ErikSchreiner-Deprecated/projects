@@ -9,4 +9,4 @@
 
 📫 You can reach me at erikschreiner@college.harvard.edu (any feedback/critism welcomed!)
 
-This repository, "projects," is for my website I plan to build up with projects that I am personally working on or have completed.
+This repository, "projects," is for my website that I plan to build up with projects that I am personally working on or have completed. My other website https://erikschreiner.github.io/PHYSCI-70/index.html documented my learning through the class that really exposed me to fabrication and all the different methods. 
